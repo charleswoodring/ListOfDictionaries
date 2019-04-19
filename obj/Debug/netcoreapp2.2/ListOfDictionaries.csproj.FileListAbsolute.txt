@@ -1,0 +1,11 @@
+C:\Users\c64wo\workspace\csharp\practice\ListOfDictionaries\bin\Debug\netcoreapp2.2\ListOfDictionaries.deps.json
+C:\Users\c64wo\workspace\csharp\practice\ListOfDictionaries\bin\Debug\netcoreapp2.2\ListOfDictionaries.runtimeconfig.json
+C:\Users\c64wo\workspace\csharp\practice\ListOfDictionaries\bin\Debug\netcoreapp2.2\ListOfDictionaries.runtimeconfig.dev.json
+C:\Users\c64wo\workspace\csharp\practice\ListOfDictionaries\bin\Debug\netcoreapp2.2\ListOfDictionaries.dll
+C:\Users\c64wo\workspace\csharp\practice\ListOfDictionaries\bin\Debug\netcoreapp2.2\ListOfDictionaries.pdb
+C:\Users\c64wo\workspace\csharp\practice\ListOfDictionaries\obj\Debug\netcoreapp2.2\ListOfDictionaries.csprojAssemblyReference.cache
+C:\Users\c64wo\workspace\csharp\practice\ListOfDictionaries\obj\Debug\netcoreapp2.2\ListOfDictionaries.csproj.CoreCompileInputs.cache
+C:\Users\c64wo\workspace\csharp\practice\ListOfDictionaries\obj\Debug\netcoreapp2.2\ListOfDictionaries.AssemblyInfoInputs.cache
+C:\Users\c64wo\workspace\csharp\practice\ListOfDictionaries\obj\Debug\netcoreapp2.2\ListOfDictionaries.AssemblyInfo.cs
+C:\Users\c64wo\workspace\csharp\practice\ListOfDictionaries\obj\Debug\netcoreapp2.2\ListOfDictionaries.dll
+C:\Users\c64wo\workspace\csharp\practice\ListOfDictionaries\obj\Debug\netcoreapp2.2\ListOfDictionaries.pdb
